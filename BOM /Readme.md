@@ -3,7 +3,7 @@
 ### Control & Signal Distribution
 | Component | Qty | Specifications | Purpose |
 | :--- | :---: | :--- | :--- |
-| **Arduino Mega 2560** | 1 | ATmega2560 R3 | Main Controller for Inverse Kinematics |
+| **Arduino Mega 2560** | 1 | ATmega2560 R3 | Main Controller |
 | **High Power Servo Shield**| 1 | Mega-compatible | High-current rail for simultaneous servo control |
 
 ### Actuation 
